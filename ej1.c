@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 int calc(int n){                                            //creamos la funcion calc donde tenemos la formula
     return (n * (n + 1)) / 2;
 }
